@@ -1,54 +1,56 @@
-<!-- GitHub Profile README for @thatii24 -->
+# 👋 Hi, I'm **Thaís** (thatii24) 
 
-# 🧠 thatii24
+**🎓 Computer Science Undergraduate | 🎮 Future Game Developer | 🖌️ Digital Artist & 3D Enthusiast**  
 
-> Full-stack dev with a 3D twist — I blend Blender, React, Java, C++, and AI to build powerful, creative experiences.
-
----
-
-### 🔧 Tech Stack
-**Languages**  
-`Java` `C++` `JavaScript` `SQL`
-
-**Frontend**  
-`React` `Tailwind` `HTML/CSS`  
-
-**3D & Creative**  
-`Blender` `Three.js`
-
-**AI & Experiments**  
-`Python` `ML APIs` `Custom AI tools`
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Building+my+skills+one+commit+at+a+time+✨&color=F75C7E&center=true)
 
 ---
 
-### 🔥 About Me
-I’m a dev who builds with both structure and chaos.  
-From compiling C++ to rendering 3D worlds in Blender, I code things that *work*, *look good*, and sometimes *think for themselves*.
-
-- 🌐 Frontend Dev with a 3D twist  
-- 🧠 AI-curious — always hacking on something smart  
-- 💾 Love databases but hate slow queries  
-- 🎨 Building stuff that feels alive
+## 🌟 About Me  
+- 🔭 **Currently:** Studying CS, mastering C++, Java, Python, and web tech (HTML/PHP/SQL).  
+- 🎨 **Creative Side:** Love designing in Photoshop, Illustrator, and 3D modeling with Blender.  
+- 🎯 **Dream:** Develop my own indie game (currently learning Unity/Unreal in my free time!).  
+- ✉️ **Contact:** [thatilawijayathunga@gmail.com](mailto:thatilawijayathunga@gmail.com)  
 
 ---
 
-### 🛠️ Projects & Builds (coming soon...)
-| Project | Stack | Status |
-|--------|-------|--------|
-| 🎮 **Game UI Builder** | C++ + React | Planning |
-| 🌈 **3D Portfolio Website** | Blender + Three.js + React | WIP |
-| 🤖 **Mini AI Assistant** | JS + Python | Experimenting |
-| 📊 **SQL Query Playground** | Java + SQL | Prototype |
+## 🛠️ Tech Stack  
+
+### **Programming**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+### **Design & Creativity**  
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)  
+
+### **Web Dev**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
 ---
 
-### ⚡ Current Focus
-- 🎯 Merging Blender with React for next-gen UIs  
-- 🧪 Cooking up AI tools with a frontend twist  
-- 📚 Deep diving into system design & performance
+## 📚 Academic Focus  
+- **Algorithms & Data Structures**  
+- **Object-Oriented Programming (OOP)**  
+- **Database Design**  
+- **Game Development Fundamentals**  
 
 ---
 
-### 💬 Let’s Link Up
-- 📧 Email: [thatilawijayathunga@gmail.com]
+## 🎨 Creative Showcase  
+*(Even without projects, you can tease future work!)*  
 
+```python
+# Coming soon: My first game!
+def my_game():
+    while passion > skill:
+        learn()
+        code()
+        create()
+    return "Epic Adventure 🎮"
+"feat: Updated README with animated design ✨"
