@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tha%C3%ADs+(thatii24);B.Sc+Computer+Science+Undergrad;Full-Stack+Dev+%7C+3D+Artist+%7C+Game+Enthusiast;Always+learning+%26+building+cool+stuff!&center=true&size=22&color=FF7F50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Thatila+(thatii24);B.Sc+Computer+Science+Undergrad;Full-Stack+Dev+%7C+3D+Artist+%7C+Game+Enthusiast;Always+learning+%26+building+cool+stuff!&center=true&size=22&color=FF7F50">
 </div>
 
 <!-- Social badges -->
