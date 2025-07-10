@@ -1,8 +1,9 @@
-# 👋 Hi, I'm **Thaís** (thatii24) 
+# 👋 Hi, I'm **Thatila** (thatii24) 
 
 **🎓 Computer Science Undergraduate | 🎮 Future Game Developer | 🖌️ Digital Artist & 3D Enthusiast**  
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!)![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+my+skills+one+commit+at+a+time+✨&color=F75C7E&center=true)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!&center=true&width=500)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+my+skills+one+commit+at+a+time+✨&color=F75C7E&center=true&width=500)
 
 ---
 
