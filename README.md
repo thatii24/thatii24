@@ -1,4 +1,5 @@
-# 👋 Hi, I'm **Thatila** (thatii24) 
+# 👋 Hi, 
+   I'm **Thatila** (thatii24) 
 
 **🎓 Computer Science Undergraduate | 🎮 Future Game Developer | 🖌️ Digital Artist & 3D Enthusiast**  
 
