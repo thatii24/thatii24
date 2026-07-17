@@ -1,3 +1,5 @@
+
+Readme · MD
 <div align="center">
 # Hi, I'm Thatila 👋
  
@@ -68,7 +70,7 @@ Alongside my AI journey, I bring experience in **Graphic Design, UI/UX Design, V
 - 📊 **Campus Dashboard & Data Visualization Projects** — interactive tools for exploring and presenting academic/campus data
 - ⚙️ **OS Process Simulator** — a simulation tool for visualizing operating systems concepts like scheduling and process management
 ---
- 
+---
 ## 📊 GitHub Stats
  
 <div align="center">
@@ -89,3 +91,4 @@ I'm actively looking for **internships, research opportunities, freelance projec
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thatilawijayathunga@gmail.com)
  
 </div>
+ 
