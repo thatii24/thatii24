@@ -1,5 +1,5 @@
 <div align="center">
-
+![Demo](Demo.gif)
 # Hi, I'm Thatila 👋
 
 ### Aspiring AI Engineer | Computer Science Undergraduate | Computer Vision • ML • AI Automation
