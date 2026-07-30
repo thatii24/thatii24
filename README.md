@@ -9,10 +9,6 @@
 ### Aspiring AI Engineer | Computer Science Undergraduate | Computer Vision • ML • AI Automation
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+solve+real+problems;Computer+Vision+%7C+Machine+Learning+%7C+AI+Automation;Design-minded+%2B+code-minded+%E2%9C%A8;Open+to+Internships+%26+Research+Opportunities)
-
-
-<br>
-
 <a href="https://www.linkedin.com/in/thatila-wijayathunga-870aa6216">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
