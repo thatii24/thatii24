@@ -10,7 +10,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+solve+real+problems;Computer+Vision+%7C+Machine+Learning+%7C+AI+Automation;Design-minded+%2B+code-minded+%E2%9C%A8;Open+to+Internships+%26+Research+Opportunities)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+solve+real+problems;Computer+Vision+%7C+Machine+Learning+%7C+AI+Automation;Design-minded+%2B+Code-minded+✨;Open+to+Internships+%26+Research+Opportunities" />
 
 <br>
 
