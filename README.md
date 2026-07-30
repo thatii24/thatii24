@@ -1,7 +1,7 @@
 <div align="center">
 <img src="Demo.gif" width="200">
   <br>
-# Hi, I'm Thatila 👋
+#Hi, I'm Thatila 👋
 
 ### Aspiring AI Engineer | Computer Science Undergraduate | Computer Vision • ML • AI Automation
 
