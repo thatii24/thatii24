@@ -12,7 +12,7 @@
 <!--                    🔥 DEMO GIF 🔥                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="demo2.gif" width="1000" alt="Demo">
+<img src="https://github.com/thatii24/thatii24/blob/main/demo2.gif?raw=true" width="220" alt="Demo">
 
 <br><br>
 
