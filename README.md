@@ -8,12 +8,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,20:1a0a00,40:331a00,60:663300,80:FF8C00,100:FFD700&height=230&section=header&text=Hi,%20I'm%20Thatila%20🔥&fontColor=FFD700&fontSize=48&fontAlignY=33&desc=%E3%80%8C+Aspiring+AI+Engineer+%7C+CS+Undergrad+%7C+Code+Warrior+%E3%80%8D&descColor=FF8C00&descSize=17&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    🔥 DEMO GIF 🔥                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="Demo2.gif" width="1000" height="300" alt="Demo">
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -22,6 +16,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%94%A5+Building+intelligent+systems+that+solve+real+problems;%E2%9A%A1+Computer+Vision+%7C+Machine+Learning+%7C+AI+Automation;%F0%9F%8E%A8+Design-minded+%2B+Code-minded;%F0%9F%92%BC+Open+to+Internships+%26+Research+Opportunities)](https://git.io/typing-svg)
 <br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    🔥 DEMO GIF 🔥                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="Demo2.gif" width="1000" height="300" alt="Demo">
+
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--        🔥 DYNAMIC BADGES — AUTO-UPDATING 🔥                -->
