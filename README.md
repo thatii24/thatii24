@@ -12,7 +12,7 @@
 <!--                    🔥 DEMO GIF 🔥                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="demo2.gif" width="220" alt="Demo">
+<img src="demo2.gif" width="1000" alt="Demo">
 
 <br><br>
 
@@ -105,7 +105,7 @@ const thatila = {
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal — `武器庫`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> Tech Arsenal — `武器庫`
 
 <br/>
 
@@ -221,14 +221,8 @@ Full-featured **sports event management** platform.
 ## 📊 Battle Stats — `戦闘力`
 
 <br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thatii24&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF8C00&icon_color=FFD700&text_color=c9c9c9&ring_color=FF8C00&border_color=FF8C00" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=thatii24&hide_border=true&background=0D0D0D&ring=FF8C00&fire=FF4500&currStreakLabel=FFD700&sideLabels=FF8C00&currStreakNum=FFD700&sideNums=FFB800&dates=555555" alt="Streak Stats"/>
-
+<img width="90%" src="https://streak-stats.demolab.com?user=thatii24&hide_border=true&background=0D0D0D&ring=FF8C00&fire=FF4500&currStreakLabel=FFD700&sideLabels=FF8C00&currStreakNum=FFD700&sideNums=FFB800&dates=555555" alt="Streak Stats"/>
 <br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatii24&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF8C00&text_color=c9c9c9" alt="Top Languages"/>
-
 </div>
 
 ---
@@ -309,12 +303,12 @@ Full-featured **sports event management** platform.
 ```
  ╔═══════════════════════════════════════════════════════════════════╗
  ║                                                                   ║
- ║   "Set your heart ablaze.                                        ║
+ ║   "Set your heart ablaze.                                         ║
  ║    Go beyond your limits.                                         ║
  ║    No matter how devastated you may be by your own weakness       ║
  ║    or uselessness, set your heart ablaze."                        ║
  ║                                                                   ║
- ║                          — Kyojuro Rengoku 🔥                     ║
+ ║                       — Kyojuro Rengoku 🔥                        ║
  ║                                                                   ║
  ╚═══════════════════════════════════════════════════════════════════╝
 ```
