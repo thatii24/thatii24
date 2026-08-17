@@ -83,6 +83,7 @@ I enjoy solving real-world problems through software while combining technical k
 | Project | Description |
 |---------|-------------|
 | 🤖 **AI Meeting Delegate Platform** | AI-powered meeting avatar with voice cloning, LiveKit, Deepgram & Gemini |
+| 🎬 **Anime style Graphic Design Portfolio Website** | Interactive portfolio with cinematic animations |
 | 🎬 **Cinematic Portfolio Website** | Interactive portfolio with cinematic animations |
 | 🏏 **Él-Épico Event Platform** | Sports event management platform |
 | 📊 **Campus Dashboard** | Data visualization and analytics platform |
