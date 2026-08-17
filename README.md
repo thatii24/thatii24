@@ -12,7 +12,7 @@
 <!--                    🔥 DEMO GIF 🔥                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="demo2.gif" width="220" alt="Demo">
+<img src="demo2.gif.gif" width="220" alt="Demo">
 
 <br><br>
 
@@ -70,6 +70,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<br/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me — `自己紹介`
 
@@ -257,14 +258,13 @@ Full-featured **sports event management** platform.
 <div align="center">
 
 ## 🐍 Contribution Snake — `貢献のヘビ`
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thatii24/thatii24/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thatii24/thatii24/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/thatii24/thatii24/output/github-snake-dark.svg" />
 </picture>
-
 </div>
+
 
 ---
 
