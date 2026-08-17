@@ -12,7 +12,7 @@
 <!--                    🔥 DEMO GIF 🔥                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="demo2.gif.gif" width="220" alt="Demo">
+<img src="demo2.gif" width="220" alt="Demo">
 
 <br><br>
 
@@ -68,10 +68,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                 ⚔️ ABOUT ME ⚔️                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-<br/>
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me — `自己紹介`
 
 ```js
@@ -113,7 +109,7 @@ const thatila = {
 
 <br/>
 
-### 🤖 AI / ML / Automation
+###  AI / ML / Automation
 
 <p>
 <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0d0d0d"/>
@@ -123,7 +119,7 @@ const thatila = {
 <img src="https://img.shields.io/badge/n8n-FF8C00?style=for-the-badge&logo=n8n&logoColor=0d0d0d"/>
 </p>
 
-### 💻 Programming & Web
+###  Programming & Web
 
 <p>
 <img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=c%2B%2B&logoColor=FF8C00"/>
@@ -137,7 +133,7 @@ const thatila = {
 <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=FF8C00"/>
 </p>
 
-### 🎨 Design & Creative
+###  Design & Creative
 
 <p>
 <img src="https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=FF8C00"/>
@@ -148,7 +144,7 @@ const thatila = {
 <img src="https://img.shields.io/badge/Blender-0d0d0d?style=for-the-badge&logo=blender&logoColor=FF8C00"/>
 </p>
 
-### ⚙️ Tools
+###  Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF4500"/>
@@ -276,8 +272,7 @@ Full-featured **sports event management** platform.
 
 ## 🏆 Achievements — `実績`
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thatii24&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-trophies.devomb.com/?username=thatii24&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
