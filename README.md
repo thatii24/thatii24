@@ -12,16 +12,15 @@
 <!--                    🔥 DEMO GIF 🔥                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://github.com/thatii24/thatii24/blob/main/demo2.gif?raw=true" width="220" alt="Demo">
+<img src="https://github.com/thatii24/thatii24/blob/main/Demo.gif?raw=true" width="220" alt="Demo">
 
-<br><br>
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                🔥 TYPING ANIMATION 🔥                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%94%A5+Building+intelligent+systems+that+solve+real+problems;%E2%9A%A1+Computer+Vision+%7C+Machine+Learning+%7C+AI+Automation;%F0%9F%8E%A8+Design-minded+%2B+Code-minded;%F0%9F%92%BC+Open+to+Internships+%26+Research+Opportunities)](https://git.io/typing-svg)
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
