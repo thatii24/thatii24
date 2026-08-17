@@ -12,7 +12,7 @@
 <!--                    🔥 DEMO GIF 🔥                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="Demo.gif" width="220" alt="Demo">
+<img src="demo2.gif" width="220" alt="Demo">
 
 <br><br>
 
