@@ -148,6 +148,7 @@ const thatila = {
 <p>
 <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF4500"/>
 <img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=FF8C00"/>
+<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=cursor&logoColor=FF8C00"/>
 </p>
 
 </div>
