@@ -111,44 +111,30 @@ const thatila = {
 ###  AI / ML / Automation
 
 <p>
-<img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF8C00?style=for-the-badge&logo=tensorflow&logoColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/OpenCV-FF4500?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-FFB800?style=for-the-badge&logo=googlegemini&logoColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/n8n-FF8C00?style=for-the-badge&logo=n8n&logoColor=0d0d0d"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,bots" alt="Tools" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ###  Programming & Web
 
 <p>
-<img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=c%2B%2B&logoColor=FF8C00"/>
-<img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=FFB800"/>
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=FF8C00"/>
-<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=FFB800"/>
-<img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=FF8C00"/>
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=FF4500"/>
-<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=FF8C00"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,react,nodejs,php,mysql,html,css" alt="Tools" />
 </p>
 
 ###  Design & Creative
 
 <p>
-<img src="https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=FF8C00"/>
-<img src="https://img.shields.io/badge/Photoshop-0d0d0d?style=for-the-badge&logo=adobephotoshop&logoColor=FFB800"/>
-<img src="https://img.shields.io/badge/Illustrator-0d0d0d?style=for-the-badge&logo=adobeillustrator&logoColor=FF8C00"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-0d0d0d?style=for-the-badge&logo=adobepremierepro&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-0d0d0d?style=for-the-badge&logo=davinciresolve&logoColor=FF4500"/>
-<img src="https://img.shields.io/badge/Blender-0d0d0d?style=for-the-badge&logo=blender&logoColor=FF8C00"/>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,pr,ae,blender" alt="Tools" />
+<img src="https://img.shields.io/badge/DaVinci_Resolve-0E1318?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
 </p>
 
 ###  Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF4500"/>
-<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=FF8C00"/>
-<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=cursor&logoColor=FF8C00"/>
+ <img src="https://skillicons.dev/icons?i=git,docker,vscode" alt="Tools" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
 </div>
