@@ -119,7 +119,7 @@ const thatila = {
 ###  Programming & Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,react,nodejs,nextjs,php,mysql,html,css" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,javascript,react,nodejs,nextjs,php,mysql,html,css" alt="Tools" />
 </p>
 
 ###  Design & Creative
