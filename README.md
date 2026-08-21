@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/github/stars/thatii24?label=%E2%AD%90+STARS&style=for-the-badge&color=FF4500&logo=github&logoColor=FF4500" alt="Stars"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  🌐 QUICK LINKS 🌐                         -->
@@ -111,7 +111,7 @@ const thatila = {
 ###  AI / ML / Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,bots" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,bots" alt="Tools" /></br>
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
@@ -125,14 +125,21 @@ const thatila = {
 ###  Design & Creative
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,pr,ae,blender" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,pr,ae,blender" alt="Tools" /></br>
+<img src="https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white" alt="Affinity" />
 <img src="https://img.shields.io/badge/DaVinci_Resolve-0E1318?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+</p>
+
+###  Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=godot,unity,unreal" alt="Tools" />
 </p>
 
 ###  Tools
 
 <p>
- <img src="https://skillicons.dev/icons?i=git,docker,vscode" alt="Tools" />
+ <img src="https://skillicons.dev/icons?i=git,docker,vscode,github,linux,kali,windows" alt="Tools" /></br>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
@@ -140,7 +147,7 @@ const thatila = {
 ###  Project planning
 
 <p>
-<img src="https://img.shields.io/badge/Jira-4285F4?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 </div>
 
