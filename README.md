@@ -137,6 +137,11 @@ const thatila = {
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
+###  Project planning
+
+<p>
+<img src="https://img.shields.io/badge/Jira-4285F4?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
 </div>
 
 ---
