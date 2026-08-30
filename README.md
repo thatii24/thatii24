@@ -219,7 +219,7 @@ Full-featured **sports event management** platform.
 ## 📊 Battle Stats — `戦闘力`
 
 <br/>
-<img width="90%" src="https://github-readme-streak-stats-dun-rho.vercel.app/?user=thatii24&hide_border=true&background=0D0D0D&ring=FF8C00&fire=FF4500&currStreakLabel=FFD700&sideLabels=FF8C00&currStreakNum=FFD700&sideNums=FFB800&dates=555555" alt="Streak Stats"/>
+<img width="90%" src="https://streak-stats.demolab.com/?user=thatii24&hide_border=true&background=0D0D0D&ring=FF8C00&fire=FF4500&currStreakLabel=FFD700&sideLabels=FF8C00&currStreakNum=FFD700&sideNums=FFB800&dates=555555" alt="Streak Stats"/>
 <br/><br/>
 </div>
 
