@@ -232,8 +232,7 @@ Full-featured **sports event management** platform.
 <div align="center">
 
 ## 📈 Activity — `活動グラフ`
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thatii24&bg_color=0d0d0d&color=FF8C00&line=FFD700&point=FF4500&area=true&area_color=FF8C0020&hide_border=true&custom_title=🔥%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="90%" src="https://streak-stats.demolab.com/?user=thatii24&hide_border=true&background=0D0D0D&ring=FF8C00&fire=FF4500&currStreakLabel=FFD700&sideLabels=FF8C00&currStreakNum=FFD700&sideNums=FFB800&dates=555555" alt="Streak Stats"/>
 
 </div>
 
