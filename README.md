@@ -232,7 +232,7 @@ Full-featured **sports event management** platform.
 <div align="center">
 
 ## 📈 Activity — `活動グラフ`
-<img width="90%" src="https://streak-stats.demolab.com/?user=thatii24&hide_border=true&background=0D0D0D&ring=FF8C00&fire=FF4500&currStreakLabel=FFD700&sideLabels=FF8C00&currStreakNum=FFD700&sideNums=FFB800&dates=555555" alt="Streak Stats"/>
+[![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatii24&theme=github_dark)](https://github.com/thatii24)
 
 </div>
 
