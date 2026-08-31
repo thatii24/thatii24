@@ -187,25 +187,18 @@ Interactive portfolio with **cinematic animations** and premium design.
 </td>
 <td width="50%">
 
-### 🏏 Él-Épico Event Platform
-Full-featured **sports event management** platform.
+### 📊 Campus Dashboard
+**Data visualization** and analytics platform for campus insights.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 Campus Dashboard
-**Data visualization** and analytics platform for campus insights.
-
-</td>
-<td width="50%">
-
 ### ⚙️ OS Process Simulator
 **CPU scheduling** & operating system process simulator.
 
 </td>
-</tr>
 <td width="50%">
 
 ### 🧠 Extendable-ai-agent
