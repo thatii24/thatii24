@@ -327,15 +327,15 @@ I'm always interested in collaborating on **AI, Machine Learning, Computer Visio
 <br/>
 
 <a href="https://www.linkedin.com/in/thatila-wijayathunga-870aa6216">
-<img src="https://img.shields.io/badge/LinkedIn-%23FF8C00.svg?style=for-the-badge&logo=linkedin&logoColor=0d0d0d"/>
+<img src="https://skillicons.dev/icons?i=linkedin" alt="Tools" />
 </a>
 &nbsp;
 <a href="mailto:thatilawijayathunga@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-%23FFB800.svg?style=for-the-badge&logo=gmail&logoColor=0d0d0d"/>
+<img src="https://skillicons.dev/icons?i=gmail" alt="Tools" />
 </a>
 &nbsp;
 <a href="https://github.com/thatii24">
-<img src="https://img.shields.io/badge/GitHub-%23FFD700.svg?style=for-the-badge&logo=github&logoColor=0d0d0d"/>
+<img src="https://skillicons.dev/icons?i=github" alt="Tools" /></br>
 </a>
 
 </div>
