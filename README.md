@@ -206,6 +206,13 @@ Full-featured **sports event management** platform.
 
 </td>
 </tr>
+<td width="50%">
+
+### 🧠 Extendable-ai-agent
+Autonomous multi-agent architecture with <strong>extensible tool suites</strong>, memory retention &amp; custom skills.
+
+</td>
+</tr>
 </table>
 
 ---
