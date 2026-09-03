@@ -31,12 +31,10 @@
 <a href="https://github.com/thatii24">
 <img src="https://komarev.com/ghpvc/?username=thatii24&label=%F0%9F%94%A5+PROFILE+VIEWS&color=FF8C00&style=for-the-badge" alt="Profile Views"/>
 </a>
-&nbsp;&nbsp;
 <!-- 🔥 FOLLOWERS — Live follower count from GitHub API -->
 <a href="https://github.com/thatii24?tab=followers">
 <img src="https://img.shields.io/github/followers/thatii24?label=%E2%9A%A1+FOLLOWERS&style=for-the-badge&color=FFB800&logo=github&logoColor=FFB800" alt="Followers"/>
 </a>
-&nbsp;&nbsp;
 <!-- 🔥 STARS — Live star count from GitHub API -->
 <a href="https://github.com/thatii24?tab=repositories">
 <img src="https://img.shields.io/github/stars/thatii24?label=%E2%AD%90+STARS&style=for-the-badge&color=FF4500&logo=github&logoColor=FF4500" alt="Stars"/>
@@ -329,11 +327,9 @@ I'm always interested in collaborating on **AI, Machine Learning, Computer Visio
 <a href="https://www.linkedin.com/in/thatila-wijayathunga-870aa6216">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="Tools" />
 </a>
-&nbsp;
 <a href="mailto:thatilawijayathunga@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" alt="Tools" />
 </a>
-&nbsp;
 <a href="https://github.com/thatii24">
 <img src="https://skillicons.dev/icons?i=github" alt="Tools" /></br>
 </a>
